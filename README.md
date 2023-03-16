@@ -16,3 +16,8 @@
 * [PLATAFORMAS DE CURSOS E BOOTCAMPS( FREE)](https://github.com/jumozaga/utilidadesdev/blob/main/files/PLATAFORMASCURSOSFREE.md)
   * [Sugestão de Cursos](https://linkfly.to/sugestaocurso "Plataformas de Cursos Free")]()
 * [OUTROS LINKS UTEIS](https://github.com/jumozaga/utilidadesdev/blob/main/files/OUTROS.md)
+
+
+
+### **Contate - me**: 
++ [Linkedin](https://www.linkedin.com/in/jumozaga/ "Meu Linkedin") &  [**Telegran**](https://t.me/jumozaga)
