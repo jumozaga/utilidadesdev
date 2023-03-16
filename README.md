@@ -20,4 +20,9 @@
 
 
 ### **Contate - me**: 
-+ [Linkedin](https://www.linkedin.com/in/jumozaga/ "Meu Linkedin") &  [**Telegran**](https://t.me/jumozaga)
+[<img src="https://freepngimg.com/thumb/linkedin/8-2-linkedin-png-picture.png" width="25" >](https://www.linkedin.com/in/jumozaga/ "Meu Linkedin")
+
+<!---
+[<img src="https://freepngimg.com/thumb/social_media/63059-media-icons-telegram-twitter-blog-computer-social.png" width="30" >](https://t.me/jumozaga)
+-->
+
