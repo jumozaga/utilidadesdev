@@ -16,6 +16,8 @@
 * [PLATAFORMAS DE CURSOS E BOOTCAMPS( FREE)](https://github.com/jumozaga/utilidadesdev/blob/main/files/PlataformasCursosFree.md)
   * [Sugestão de Cursos](https://linkfly.to/sugestaocurso "Plataformas de Cursos Free")]()
 * [OUTROS LINKS UTEIS](https://github.com/jumozaga/utilidadesdev/blob/main/files/OUTROS.md)
+* [ENGENHARIA DE DADOS LINKS](https://github.com/jumozaga/utilidadesdev/blob/main/files/CursosEngenhariaDeDados.md)
+* [ANALISE DE DADOS LINKS](https://github.com/jumozaga/utilidadesdev/blob/main/files/CursosAnaliseDeDados.md)
 
 
 
