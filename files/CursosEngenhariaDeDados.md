@@ -55,5 +55,16 @@ Projetos Github
 * https://github.com/ris-tlp/audiophile-e2e-pipeline
 * https://github.com/ankurchavda/streamify
 
+FREE Datasets
+* Credit Card Fraud Detection: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+* Supermarket sales: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+* FIFA 22 complete player dataset: https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
+* Walmart Recruiting - Store Sales Forecasting: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
+* Netflix Movies and TV Shows: https://www.kaggle.com/datasets/shivamb/netflix-shows
+* LinkedIn Data Analyst jobs listings: https://www.kaggle.com/datasets/cedricaubin/linkedin-data-analyst-jobs-listings
+* Top 50 Fast-Food Chains in USA: https://www.kaggle.com/datasets/iamsouravbanerjee/top-50-fastfood-chains-in-usa
+* Amazon and Best Buy Electronics: https://data.world/datafiniti/amazon-and-best-buy-electronics
+* Forecasting Book Sales: https://www.kaggle.com/datasets/oscarm524/forecasting-book-sales
+* Real / Fake Job Posting Prediction: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 
 
