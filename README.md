@@ -18,6 +18,7 @@
 * [OUTROS LINKS UTEIS](https://github.com/jumozaga/utilidadesdev/blob/main/files/OUTROS.md)
 * [ENGENHARIA DE DADOS LINKS](https://github.com/jumozaga/utilidadesdev/blob/main/files/CursosEngenhariaDeDados.md)
 * [ANALISE DE DADOS LINKS](https://github.com/jumozaga/utilidadesdev/blob/main/files/CursoAnaliseDeDados.md)
+* [CERTIFICAÇÃO](https://github.com/jumozaga/utilidadesdev/blob/main/files/CertificacaoFree.md)
 
 
 
