@@ -9,6 +9,15 @@ https://free-for.dev/#/?id=free-fordev
 * 4Devs – Geradores/ Validadores de CPF e outros
 https://www.4devs.com.br/
 
+* JSON
+https://jsoneditoronline.org/
+
+* Gerador de User
+https://randomuser.me/
+
+* SQL 
+https://sql-island.informatik.uni-kl.de/
+
 * Drawio
 https://www.diagrams.net/
 
