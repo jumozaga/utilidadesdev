@@ -10,6 +10,9 @@ https://educacao-executiva.fgv.br/cursos/gratuitos
 * FUNDAÇÃO BRADESCO
 https://www.ev.org.br/areas-de-interesse/tecnologia-da-informacao
 
+* TIM Tec
+https://cursos.timtec.com.br/
+
 * CISCO – NETCAD
 https://www.netacad.com/pt-br/courses/all-courses
 
