@@ -31,6 +31,9 @@ https://onebitcode.com/lp/courses.html
 * DIO
 https://www.dio.me/sign-up?ref=I9W2AE6I75
 
+* LEARNCAFE
+https://www.learncafe.com/cursos-gratis/informatica-e-internet?&page=3
+
 * DATASCIENCE ACADEMY (DATA E PYTHON)
 https://www.datascienceacademy.com.br/cursosgratuitos
 
