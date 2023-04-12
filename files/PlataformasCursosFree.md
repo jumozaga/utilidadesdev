@@ -34,6 +34,9 @@ https://www.dio.me/sign-up?ref=I9W2AE6I75
 * LEARNCAFE
 https://www.learncafe.com/cursos-gratis/informatica-e-internet?&page=3
 
+* USP Cursos
+https://eaulas.usp.br/portal/profession.action?profession=Sistemas+de+Informa%C3%A7%C3%A3o
+
 * DATASCIENCE ACADEMY (DATA E PYTHON)
 https://www.datascienceacademy.com.br/cursosgratuitos
 
