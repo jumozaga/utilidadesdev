@@ -13,6 +13,8 @@
 + https://fixer.io/
 - New York Times - Noticias
 + https://developer.nytimes.com/
+- The Star Wars API
++ https://swapi.dev/
 ### Divertidas
 - Retorna um conselho
 + https://api.adviceslip.com/#endpoint-random
