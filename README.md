@@ -1,11 +1,12 @@
 # Meus links uteis DEV Tech 
 
 <img src="https://i.pinimg.com/564x/26/07/2b/26072ba777ec291ed8e1dfa85354d408.jpg" >
-* [APIS GRATUITAS](https://github.com/jumozaga/utilidadesdev/blob/main/files/APIs.md)
+
 * [PROGRAMAS DE FORMAÇÃO/INSERÇÃO TI](https://github.com/jumozaga/utilidadesdev/blob/main/files/ProgramasDeFormaçãoInserçãoTI.md)
 * [BENEFÍCIOS ESTUDANTES](https://github.com/jumozaga/utilidadesdev/blob/main/files/BeneficiosEstudantes.md)
 * [GUIAS / ROADMAPS](https://github.com/jumozaga/utilidadesdev/blob/main/files/GuiasRoadmaps.md)
 * [FERRAMENTAS ÚTEIS PARA DEV](https://github.com/jumozaga/utilidadesdev/blob/main/files/FerramentasUteisDev.md)
+* [APIS GRATUITAS](https://github.com/jumozaga/utilidadesdev/blob/main/files/APIs.md)
 * [PLATAFORMA DE TREINO/DESAFIO DE CODIGO/LOGICA](https://github.com/jumozaga/utilidadesdev/blob/main/files/TreinoDesafioCodigoLOGICA.md)
 * [CHALLENGES / DESAFIOS](https://github.com/jumozaga/utilidadesdev/blob/main/files/CHALLENGES.md)
 * [NEWSLLETER   & BLOG DEV](https://github.com/jumozaga/utilidadesdev/blob/main/files/NewsletterBlogDev.md)
@@ -19,6 +20,7 @@
 * [ENGENHARIA DE DADOS LINKS](https://github.com/jumozaga/utilidadesdev/blob/main/files/CursosEngenhariaDeDados.md)
 * [ANALISE DE DADOS LINKS](https://github.com/jumozaga/utilidadesdev/blob/main/files/CursoAnaliseDeDados.md)
 * [CERTIFICAÇÃO](https://github.com/jumozaga/utilidadesdev/blob/main/files/CertificacaoFree.md)
+
 
 
 
