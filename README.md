@@ -1,7 +1,7 @@
 # Meus links uteis DEV Tech 
 
 <img src="https://i.pinimg.com/564x/26/07/2b/26072ba777ec291ed8e1dfa85354d408.jpg" >
-
+* [APIS GRATUITAS](https://github.com/jumozaga/utilidadesdev/blob/main/files/APIs.md)
 * [PROGRAMAS DE FORMAÇÃO/INSERÇÃO TI](https://github.com/jumozaga/utilidadesdev/blob/main/files/ProgramasDeFormaçãoInserçãoTI.md)
 * [BENEFÍCIOS ESTUDANTES](https://github.com/jumozaga/utilidadesdev/blob/main/files/BeneficiosEstudantes.md)
 * [GUIAS / ROADMAPS](https://github.com/jumozaga/utilidadesdev/blob/main/files/GuiasRoadmaps.md)
