@@ -14,3 +14,6 @@
 * [CAMPUS CODE - TREINADEV](https://www.campuscode.com.br/)
 
 * [ALPHA EDTECH](https://www.alphaedtech.org.br/aspirantes-dev)
+  
+* [BePro Outsystems](https://www.beproinstitute.com/ )
+* [ELAS NA TECH JA BRASIL](https://jabrasil.org.br/institutoccr-elasnatech/)
